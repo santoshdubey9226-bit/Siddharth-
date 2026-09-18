@@ -1,0 +1,6 @@
+{
+  "name": "My AI Assistant 🤖",
+  "description": "Mobile AI assistant powered by Google Gemini with multi-mode intelligence, voice input, speech, image analysis, and local history.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
